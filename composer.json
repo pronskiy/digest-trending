@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mnapoli/bref": "^0.3.9",
+      "ext-curl": "*",
+      "ext-json": "*"
+    }
+}
